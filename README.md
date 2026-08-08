@@ -77,6 +77,3 @@ A short video showing the project simulation and how the servo motor responds to
 
 [Watch the Demo Video](demo.mp4)
 
-## Result
-
-The project worked successfully in the Wokwi simulation. The servo motor can be controlled using the Open and Close commands, and the LEDs change depending on the current position of the servo.
